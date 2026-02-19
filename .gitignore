@@ -188,3 +188,7 @@ data/*.sq*
 data/*/*.sq*
 data/*.SQ*
 data/*/*.SQ*
+
+# Exceptions for Git LFS
+!data/00-raw/
+!data/00-raw/RAW_recipes.csv
